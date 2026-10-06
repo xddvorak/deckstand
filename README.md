@@ -8,13 +8,16 @@ a veľké hodiny, keď sa telefónu nedotýkaš. Bez appky z App Store, bez úč
   <a href="https://github.com/xddvorak/deckstand/releases/latest/download/DeckStand.exe"><img alt="Stiahnuť DeckStand.exe" src="https://img.shields.io/badge/Stiahnuť-DeckStand.exe-f4f4f6?style=for-the-badge&labelColor=000000"></a>
 </p>
 
-<p align="center"><img src="docs/music.png" width="820" alt="Obrazovka Hudba: obal albumu, prehrávanie a hlasitosť Spotify, celého PC a Discordu"></p>
+<p align="center"><img src="docs/music.png" width="820" alt="Obrazovka Hudba: obal albumu, prehrávanie, hlasitosť Spotify a celého PC"></p>
 
 ## Ako to funguje
 
 Na PC beží malý program DeckStand (ikona v lište pri hodinách). Telefón sa s ním spojí cez domácu Wi-Fi
 a otvorí sa ako appka na celú obrazovku. Telefón držíš **na šírku**: potiahnutím do strán meníš obrazovky,
 potiahnutím zdola hore vysunieš klávesy. **Na výšku** sú nastavenia.
+
+Každá obrazovka stojí na tej istej mriežke 7 × 3 polí veľkosti klávesu: tlačidlá, posuvníky aj obal albumu
+sú na nej zarovnané, takže ovládanie nájdeš naslepo na rovnakom mieste.
 
 ## Inštalácia (asi 2 minúty)
 
@@ -50,9 +53,9 @@ prehliadač) a jedným ťuknutím prepneš výstup medzi slúchadlami a reproduk
 <p align="center"><img src="docs/mixer.png" width="820" alt="Obrazovka Zvuk: hlasitosť každej aplikácie a prepínanie výstupu"></p>
 
 ### Discord
-Veľké tlačidlo mikrofónu stlmí mikrofón v celých Windows a svieti načerveno, keď je stlmený; pásik pod ním ukazuje,
-či ťa práve počuť. Ďalej hlasitosť Discordu a citlivosť mikrofónu, stlmenie mikrofónu a zvuku priamo v Discorde,
-Streamer mód a overlay.
+Veľké tlačidlo mikrofónu stlmí mikrofón v celých Windows a svieti načerveno, keď je stlmený; pásik v ňom ukazuje,
+či ťa práve počuť. Vedľa posuvníky hlasitosti Discordu a citlivosti mikrofónu, pod ním stlmenie mikrofónu a zvuku
+priamo v Discorde. Vpravo deväť kláves: Streamer mód, overlay, výstrižok, snímka, klip, nahrávanie a ďalšie.
 
 <p align="center"><img src="docs/discord.png" width="820" alt="Obrazovka Discord"></p>
 
@@ -77,7 +80,8 @@ Keď je Netflix alebo Kodi na PC vpredu, DeckStand sa naň prepne sám.
 <p align="center"><img src="docs/netflix.png" width="49%" alt="Ovládač Netflixu"> <img src="docs/kodi.png" width="49%" alt="Ovládač Kodi"></p>
 
 ### Počítač a hry
-Zaťaženie procesora a grafiky, teplota grafiky a pamäť; ukazovatele sa sfarbia, keď je PC naplno.
+Zaťaženie procesora a grafiky, teplota grafiky a pamäť (ukazovatele sa sfarbia, keď je PC naplno), hodiny
+a rad systémových kláves: správca úloh, prieskumník, zámok, uspanie, reštart a vypnutie.
 Keď spustíš hru, ktorá má vlastné rozloženie, DeckStand ukáže čas v hre a klávesy, ktoré v nej potrebuješ.
 
 <p align="center"><img src="docs/pc.png" width="49%" alt="Obrazovka Počítač"> <img src="docs/game.png" width="49%" alt="Obrazovka hry"></p>
